@@ -14,6 +14,8 @@
 		25528F5D21281A5C006092EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25528F5B21281A5C006092EE /* LaunchScreen.storyboard */; };
 		25528F6821281A5C006092EE /* Whats_My_NumberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25528F6721281A5C006092EE /* Whats_My_NumberTests.swift */; };
 		25528F7321281A5C006092EE /* Whats_My_NumberUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25528F7221281A5C006092EE /* Whats_My_NumberUITests.swift */; };
+		25528F8121281CD5006092EE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 25528F8021281CD4006092EE /* README.md */; };
+		25528F8321281D19006092EE /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 25528F8221281D19006092EE /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		25528F6E21281A5C006092EE /* Whats My NumberUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats My NumberUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		25528F7221281A5C006092EE /* Whats_My_NumberUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_My_NumberUITests.swift; sourceTree = "<group>"; };
 		25528F7421281A5C006092EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25528F8021281CD4006092EE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		25528F8221281D19006092EE /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		25528F4621281A5A006092EE = {
 			isa = PBXGroup;
 			children = (
+				25528F8021281CD4006092EE /* README.md */,
+				25528F8221281D19006092EE /* screenshot.png */,
 				25528F5121281A5A006092EE /* Whats My Number */,
 				25528F6621281A5C006092EE /* Whats My NumberTests */,
 				25528F7121281A5C006092EE /* Whats My NumberUITests */,
@@ -231,7 +237,9 @@
 			files = (
 				25528F5D21281A5C006092EE /* LaunchScreen.storyboard in Resources */,
 				25528F5A21281A5C006092EE /* Assets.xcassets in Resources */,
+				25528F8121281CD5006092EE /* README.md in Resources */,
 				25528F5821281A5A006092EE /* Main.storyboard in Resources */,
+				25528F8321281D19006092EE /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
